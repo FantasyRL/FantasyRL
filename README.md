@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+  <a href="#overview">English</a> | <a href="README.zh.md">简体中文</a>
+</div>
+Hello there! I’m Xiao Kai 👋, a second-year Computer Science student at Fuzhou University. I’m super excited about building distributed systems and enhancing DevOps practices using Golang, Kubernetes, and various observability tools. In my recent projects, I’ve implemented async caching with Redis, built retry mechanisms with k8s-workqueue, and used SSE for real-time user experiences. I also love leveraging Prometheus + Grafana for performance monitoring and packaging logs with zap (with a fun dash of customization!) for better observability.
+
+Key Projects & Experience
+FzuHelper Server (serving 23,000+ users daily) 🚀
+Rebuilt multiple interfaces, optimized caching layers, and improved concurrency with Kubernetes scheduling.
+DomTok (an e-commerce backend in Go) 💡
+Integrated sentinel-based rate-limiting, Redis caching + Bloom filters, Elasticsearch-powered search, and a full observability stack (Prometheus, Grafana, Jaeger, EFK).
+Skills & Highlights
+Golang: Familiar with concurrency (GMP model), garbage collection, popular frameworks (Kitex, Hertz, gRPC).
+Databases: Experienced with MySQL (index optimization, sharding) and Redis (distributed locks, caching).
+Distributed Systems: Completed MIT 6.824 labs (1–3) and comfortable with Kafka + microservice architectures.
+DevOps: Skilled in Docker, Kubernetes, CI/CD (GitHub Actions), logging (EFK), and performance monitoring.
+I’m always eager to learn, collaborate, and share ideas! Feel free to explore my repositories or reach out at 1845983502@qq.com. Let’s build something amazing together 🤝!
