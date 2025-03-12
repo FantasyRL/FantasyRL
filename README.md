@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello there! I’m **Fanr** 👋, a second-year Computer Science student at Fuzhou University. I’m super excited about building distributed systems and enhancing DevOps practices using **Golang**, **Kubernetes**, and various observability tools. In my recent projects, I’ve implemented async caching with Redis, built retry mechanisms with k8s-workqueue, and used SSE for real-time user experiences. I also love leveraging Prometheus + Grafana for performance monitoring and packaging logs with zap (with a fun dash of customization!) for better observability.
+Hello there! I’m **Fanr** 👋, a second-year Computer Science student at Fuzhou University. I’m super excited about building distributed systems and enhancing DevOps practices using **Golang**, **Kubernetes**.
 
 ## **Key Projects & Experience**  
 - **FzuHelper Server** (serving 23,000+ users daily) 🚀  
