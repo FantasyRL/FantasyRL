@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 -->
 
 Hello there! I’m **Fanr** 👋, a second-year Computer Science student at Fuzhou University. I’m super excited about building distributed systems and enhancing DevOps practices using **Golang**, **Kubernetes**.
+- 🔭 I’m currently working at Nexsea Tech based in Xiamen, China
+- 🌱 I’m currently learning CS
+- 📫 How to reach me: [1845983502@qq.com](mailto:1845983502@qq.com)
 
 ## **Key Projects & Experience**  
 - **FzuHelper Server** (serving 23,000+ users daily) 🚀  
@@ -28,5 +31,3 @@ Hello there! I’m **Fanr** 👋, a second-year Computer Science student at Fuzh
 - **Databases**: Experienced with MySQL (index optimization, sharding) and Redis (distributed locks, caching).  
 - **Distributed Systems**: Completed MIT 6.824 labs (1–3) and comfortable with Kafka + microservice architectures.  
 - **DevOps**: Skilled in Docker, Kubernetes, CI/CD (GitHub Actions), logging (EFK), and performance monitoring.
-
-I’m always eager to learn, collaborate, and share ideas! Feel free to explore my repositories or reach out at [1845983502@qq.com](mailto:1845983502@qq.com). Let’s build something amazing together 🤝!
