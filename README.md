@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello there! I’m **Fanr** 👋, a second-year Computer Science student at Fuzhou University. I’m excited about building distributed systems and enhancing DevOps practices using **Golang**, **Kubernetes**.
+Hello there! I’m **Fanr** 👋, a third-year Computer Science student at Fuzhou University. I’m excited about building distributed systems and enhancing DevOps practices using **Golang**, **Kubernetes**.
 - 🌱 I’m currently learning CS
 - 📫 How to reach me: [1845983502@qq.com](mailto:1845983502@qq.com)
 
