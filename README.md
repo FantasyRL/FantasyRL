@@ -26,7 +26,6 @@ Hello there! I’m **Fanr** 👋, a third-year Computer Science student at Fuzho
   - Integrated sentinel-based rate-limiting, Redis caching + Bloom filters, Elasticsearch-powered search, and a full observability stack (Prometheus, Grafana, Jaeger, EFK).
 
 ## **Skills & Highlights**  
-- **Golang**: Familiar with concurrency (GMP model), garbage collection, popular frameworks (Kitex, Hertz, gRPC).  
-- **Databases**: Experienced with MySQL (index optimization, sharding) and Redis (distributed locks, caching).  
+- **Golang**: Familiar with multiple middlewares, popular frameworks (Kitex, Hertz, gRPC).  
 - **Distributed Systems**: Completed MIT 6.824 labs (1–3) and comfortable with Kafka + microservice architectures.  
-- **DevOps**: Skilled in Docker, Kubernetes, CI/CD (GitHub Actions), logging (EFK), and performance monitoring.
+- **DevOps**: Skilled in Docker, Kubernetes, CI/CD (GitHub Actions), logging, and performance monitoring.
